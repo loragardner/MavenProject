@@ -1,3 +1,4 @@
 added directly from GitHub.com to simulate REMOTE Repo has commits we dont have locally
 
-Doing more work and trying to pull it down to local repo eventually 
+Doing more work and trying to pull it down to local repo eventually
+This is cool commit from local
