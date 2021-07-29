@@ -3,3 +3,5 @@ added directly from GitHub.com to simulate REMOTE Repo has commits we dont have 
 Doing more work and trying to pull it down to local repo eventually 
 
 thsi is more text I added from GitHub.com
+
+this is a cool commit from local
